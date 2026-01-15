@@ -1,4 +1,3 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Chat&type=Date)](https://star-history.com/#rudrankriyam/Chat&Date)
 
 <a href="https://exyte.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/exyte/media/master/common/header-dark.png"><img src="https://raw.githubusercontent.com/exyte/media/master/common/header-light.png"></picture></a>
 
@@ -481,3 +480,4 @@ dependencies: [
 [SVGView](https://github.com/exyte/SVGView) - SVG parser    
 [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Chat&type=Date)](https://star-history.com/#rudrankriyam/Chat&Date)
